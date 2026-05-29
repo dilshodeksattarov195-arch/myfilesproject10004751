@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadervetch",
+        "uuid": 30278123,
+        "checksum": "vsknq"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
